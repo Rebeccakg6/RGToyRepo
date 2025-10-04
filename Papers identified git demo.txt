@@ -1,1 +1,26 @@
-Ovid Medline("follow-up endoscopy/" or "follow up endoscopy/" or "repeat endoscopy/" or "surveillance endoscopy/" or "gastrointestinal cancer/" or "gastric cancer/") and ("gastric ulcers/")341 results33 papers identified with initial manual reviewOvid Embase("follow-up endoscopy/" or "follow up endoscopy/" or "repeat endoscopy/" or "surveillance endoscopy/" or "gastrointestinal cancer/" or "gastric cancer/") and "gastric ulcers/")535 results72 papers identified with initial manual review105 papers total from Medline and EmbaseFollowing review and exclusion of duplicates, abstracts only and non English:39 papers
+Ovid Medline
+("follow-up endoscopy/" or "follow up endoscopy/" or "repeat endoscopy/" or "surveillance endoscopy/" or "gastrointestinal cancer/" or "gastric cancer/") and ("gastric ulcers/")
+
+341 results
+33 papers identified with initial manual review
+
+Ovid Embase
+("follow-up endoscopy/" or "follow up endoscopy/" or "repeat endoscopy/" or "surveillance endoscopy/" or "gastrointestinal cancer/" or "gastric cancer/") and "gastric ulcers/")
+535 results
+72 papers identified with initial manual review
+
+105 papers total from Medline and Embase
+
+Following review and exclusion of duplicates, abstracts only and non English:
+39 papers
+
+Alternative search strategy: 
+1. Stomach Ulcer/
+2. ((follow?up or repeat or surveillance) adj2 (endoscopy or scope or ?gd)).tw
+3. Stomach Neoplasms/
+4 1 and 2 and 3
+
+
+
+
+
